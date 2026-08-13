@@ -1,0 +1,180 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="900" height="3" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" y="2" fill="black" opacity="0.12"/>
+    </pattern>
+    <linearGradient id="fadeT" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#0d0208" stop-opacity="1"/>
+      <stop offset="1"   stop-color="#0d0208" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#0d0208" stop-opacity="0"/>
+      <stop offset="1"   stop-color="#0d0208" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="cp"><rect width="900" height="130"/></clipPath>
+  </defs>
+
+  <rect width="900" height="130" fill="#0d0208"/>
+
+  <style>
+    .m{font-family:'Courier New',monospace;font-size:13px;font-weight:bold}
+    @keyframes f{from{transform:translateY(-117px)}to{transform:translateY(130px)}}
+    .c0 {animation:f 1.2s linear infinite 0.00s}
+    .c1 {animation:f 1.5s linear infinite 0.30s}
+    .c2 {animation:f 1.8s linear infinite 0.70s}
+    .c3 {animation:f 2.1s linear infinite 0.10s}
+    .c4 {animation:f 1.4s linear infinite 0.90s}
+    .c5 {animation:f 2.4s linear infinite 0.50s}
+    .c6 {animation:f 1.7s linear infinite 1.20s}
+    .c7 {animation:f 2.0s linear infinite 0.40s}
+    .c8 {animation:f 1.3s linear infinite 1.60s}
+    .c9 {animation:f 2.7s linear infinite 0.20s}
+    .c10{animation:f 1.6s linear infinite 0.80s}
+    .c11{animation:f 2.2s linear infinite 1.40s}
+    .c12{animation:f 1.9s linear infinite 0.60s}
+    .c13{animation:f 1.4s linear infinite 1.00s}
+    .c14{animation:f 2.5s linear infinite 0.30s}
+    .c15{animation:f 1.1s linear infinite 1.70s}
+    .c16{animation:f 2.3s linear infinite 0.10s}
+    .c17{animation:f 1.8s linear infinite 1.30s}
+  </style>
+
+  <g clip-path="url(#cp)" filter="url(#glow)">
+    <g class="c0 m" transform="translate(20,0)">
+      <text y="0"   fill="#ffffff">ﾊ</text><text y="13"  fill="#00ff41">5</text>
+      <text y="26"  fill="#00e538">ﾈ</text><text y="39"  fill="#00cc33">2</text>
+      <text y="52"  fill="#009922">ﾂ</text><text y="65"  fill="#006611">7</text>
+      <text y="78"  fill="#003308">ﾉ</text><text y="91"  fill="#001a04">1</text>
+      <text y="104" fill="#000a02">ﾐ</text>
+    </g>
+    <g class="c1 m" transform="translate(67,0)">
+      <text y="0"   fill="#ffffff">3</text><text y="13"  fill="#00ff41">ﾔ</text>
+      <text y="26"  fill="#00e538">8</text><text y="39"  fill="#00cc33">ﾌ</text>
+      <text y="52"  fill="#009922">0</text><text y="65"  fill="#006611">ﾗ</text>
+      <text y="78"  fill="#003308">4</text><text y="91"  fill="#001a04">ﾍ</text>
+      <text y="104" fill="#000a02">9</text>
+    </g>
+    <g class="c2 m" transform="translate(114,0)">
+      <text y="0"   fill="#ffffff">ﾑ</text><text y="13"  fill="#00ff41">6</text>
+      <text y="26"  fill="#00e538">ﾏ</text><text y="39"  fill="#00cc33">1</text>
+      <text y="52"  fill="#009922">ﾖ</text><text y="65"  fill="#006611">3</text>
+      <text y="78"  fill="#003308">ﾒ</text><text y="91"  fill="#001a04">8</text>
+      <text y="104" fill="#000a02">ﾃ</text>
+    </g>
+    <g class="c3 m" transform="translate(161,0)">
+      <text y="0"   fill="#ffffff">7</text><text y="13"  fill="#00ff41">ﾋ</text>
+      <text y="26"  fill="#00e538">2</text><text y="39"  fill="#00cc33">ﾘ</text>
+      <text y="52"  fill="#009922">5</text><text y="65"  fill="#006611">ﾓ</text>
+      <text y="78"  fill="#003308">0</text><text y="91"  fill="#001a04">ﾎ</text>
+      <text y="104" fill="#000a02">4</text>
+    </g>
+    <g class="c4 m" transform="translate(208,0)">
+      <text y="0"   fill="#ffffff">ﾚ</text><text y="13"  fill="#00ff41">9</text>
+      <text y="26"  fill="#00e538">ﾇ</text><text y="39"  fill="#00cc33">6</text>
+      <text y="52"  fill="#009922">ﾄ</text><text y="65"  fill="#006611">1</text>
+      <text y="78"  fill="#003308">ﾙ</text><text y="91"  fill="#001a04">3</text>
+      <text y="104" fill="#000a02">ﾅ</text>
+    </g>
+    <g class="c5 m" transform="translate(255,0)">
+      <text y="0"   fill="#ffffff">4</text><text y="13"  fill="#00ff41">ﾕ</text>
+      <text y="26"  fill="#00e538">7</text><text y="39"  fill="#00cc33">ﾁ</text>
+      <text y="52"  fill="#009922">2</text><text y="65"  fill="#006611">ﾛ</text>
+      <text y="78"  fill="#003308">8</text><text y="91"  fill="#001a04">ﾆ</text>
+      <text y="104" fill="#000a02">5</text>
+    </g>
+    <g class="c6 m" transform="translate(302,0)">
+      <text y="0"   fill="#ffffff">ﾃ</text><text y="13"  fill="#00ff41">0</text>
+      <text y="26"  fill="#00e538">ﾜ</text><text y="39"  fill="#00cc33">9</text>
+      <text y="52"  fill="#009922">ﾊ</text><text y="65"  fill="#006611">4</text>
+      <text y="78"  fill="#003308">ﾂ</text><text y="91"  fill="#001a04">6</text>
+      <text y="104" fill="#000a02">ﾑ</text>
+    </g>
+    <g class="c7 m" transform="translate(349,0)">
+      <text y="0"   fill="#ffffff">8</text><text y="13"  fill="#00ff41">ﾓ</text>
+      <text y="26"  fill="#00e538">3</text><text y="39"  fill="#00cc33">ﾍ</text>
+      <text y="52"  fill="#009922">7</text><text y="65"  fill="#006611">ﾔ</text>
+      <text y="78"  fill="#003308">1</text><text y="91"  fill="#001a04">ﾒ</text>
+      <text y="104" fill="#000a02">0</text>
+    </g>
+    <g class="c8 m" transform="translate(396,0)">
+      <text y="0"   fill="#ffffff">ﾖ</text><text y="13"  fill="#00ff41">5</text>
+      <text y="26"  fill="#00e538">ﾋ</text><text y="39"  fill="#00cc33">2</text>
+      <text y="52"  fill="#009922">ﾌ</text><text y="65"  fill="#006611">9</text>
+      <text y="78"  fill="#003308">ﾎ</text><text y="91"  fill="#001a04">6</text>
+      <text y="104" fill="#000a02">ﾕ</text>
+    </g>
+    <g class="c9 m" transform="translate(443,0)">
+      <text y="0"   fill="#ffffff">1</text><text y="13"  fill="#00ff41">ﾗ</text>
+      <text y="26"  fill="#00e538">4</text><text y="39"  fill="#00cc33">ﾛ</text>
+      <text y="52"  fill="#009922">0</text><text y="65"  fill="#006611">ﾒ</text>
+      <text y="78"  fill="#003308">7</text><text y="91"  fill="#001a04">ﾄ</text>
+      <text y="104" fill="#000a02">3</text>
+    </g>
+    <g class="c10 m" transform="translate(490,0)">
+      <text y="0"   fill="#ffffff">ﾏ</text><text y="13"  fill="#00ff41">8</text>
+      <text y="26"  fill="#00e538">ﾙ</text><text y="39"  fill="#00cc33">5</text>
+      <text y="52"  fill="#009922">ﾆ</text><text y="65"  fill="#006611">2</text>
+      <text y="78"  fill="#003308">ﾊ</text><text y="91"  fill="#001a04">9</text>
+      <text y="104" fill="#000a02">ﾅ</text>
+    </g>
+    <g class="c11 m" transform="translate(537,0)">
+      <text y="0"   fill="#ffffff">6</text><text y="13"  fill="#00ff41">ﾈ</text>
+      <text y="26"  fill="#00e538">1</text><text y="39"  fill="#00cc33">ﾂ</text>
+      <text y="52"  fill="#009922">4</text><text y="65"  fill="#006611">ﾑ</text>
+      <text y="78"  fill="#003308">0</text><text y="91"  fill="#001a04">ﾖ</text>
+      <text y="104" fill="#000a02">7</text>
+    </g>
+    <g class="c12 m" transform="translate(584,0)">
+      <text y="0"   fill="#ffffff">ﾍ</text><text y="13"  fill="#00ff41">3</text>
+      <text y="26"  fill="#00e538">ﾔ</text><text y="39"  fill="#00cc33">8</text>
+      <text y="52"  fill="#009922">ﾌ</text><text y="65"  fill="#006611">5</text>
+      <text y="78"  fill="#003308">ﾘ</text><text y="91"  fill="#001a04">2</text>
+      <text y="104" fill="#000a02">ﾎ</text>
+    </g>
+    <g class="c13 m" transform="translate(631,0)">
+      <text y="0"   fill="#ffffff">9</text><text y="13"  fill="#00ff41">ﾁ</text>
+      <text y="26"  fill="#00e538">6</text><text y="39"  fill="#00cc33">ﾃ</text>
+      <text y="52"  fill="#009922">1</text><text y="65"  fill="#006611">ﾛ</text>
+      <text y="78"  fill="#003308">4</text><text y="91"  fill="#001a04">ﾓ</text>
+      <text y="104" fill="#000a02">8</text>
+    </g>
+    <g class="c14 m" transform="translate(678,0)">
+      <text y="0"   fill="#ffffff">ﾒ</text><text y="13"  fill="#00ff41">7</text>
+      <text y="26"  fill="#00e538">ﾋ</text><text y="39"  fill="#00cc33">0</text>
+      <text y="52"  fill="#009922">ﾕ</text><text y="65"  fill="#006611">3</text>
+      <text y="78"  fill="#003308">ﾙ</text><text y="91"  fill="#001a04">5</text>
+      <text y="104" fill="#000a02">ﾚ</text>
+    </g>
+    <g class="c15 m" transform="translate(725,0)">
+      <text y="0"   fill="#ffffff">2</text><text y="13"  fill="#00ff41">ﾗ</text>
+      <text y="26"  fill="#00e538">9</text><text y="39"  fill="#00cc33">ﾊ</text>
+      <text y="52"  fill="#009922">6</text><text y="65"  fill="#006611">ﾆ</text>
+      <text y="78"  fill="#003308">1</text><text y="91"  fill="#001a04">ﾄ</text>
+      <text y="104" fill="#000a02">4</text>
+    </g>
+    <g class="c16 m" transform="translate(772,0)">
+      <text y="0"   fill="#ffffff">ﾛ</text><text y="13"  fill="#00ff41">5</text>
+      <text y="26"  fill="#00e538">ﾏ</text><text y="39"  fill="#00cc33">8</text>
+      <text y="52"  fill="#009922">ﾔ</text><text y="65"  fill="#006611">3</text>
+      <text y="78"  fill="#003308">ﾈ</text><text y="91"  fill="#001a04">0</text>
+      <text y="104" fill="#000a02">ﾑ</text>
+    </g>
+    <g class="c17 m" transform="translate(819,0)">
+      <text y="0"   fill="#ffffff">7</text><text y="13"  fill="#00ff41">ﾚ</text>
+      <text y="26"  fill="#00e538">2</text><text y="39"  fill="#00cc33">ﾋ</text>
+      <text y="52"  fill="#009922">9</text><text y="65"  fill="#006611">ﾃ</text>
+      <text y="78"  fill="#003308">5</text><text y="91"  fill="#001a04">ﾊ</text>
+      <text y="104" fill="#000a02">1</text>
+    </g>
+  </g>
+
+  <!-- CRT scanline overlay -->
+  <rect width="900" height="130" fill="url(#scan)"/>
+  <!-- Top/bottom fade -->
+  <rect width="900" height="35" fill="url(#fadeT)"/>
+  <rect y="95" width="900" height="35" fill="url(#fadeB)"/>
+</svg>
