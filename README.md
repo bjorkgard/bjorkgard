@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bjorkgard/bjorkgard/main/matrix-rain.svg" width="900"/>
   <img src="https://raw.githubusercontent.com/bjorkgard/bjorkgard/main/terminal-chrome.svg" width="900"/>
 </div>
 
