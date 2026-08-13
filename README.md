@@ -61,11 +61,11 @@ $ ls -la ./projects/
 
 <div align="center">
 
-<a href="https://github.com/bjorkgard/YOUR-BEST-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=secretary-applicationO&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&bg_color=0d0208"/>
+<a href="https://github.com/bjorkgard/secretary-application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=secretary-application&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&bg_color=0d0208"/>
 </a>
-<a href="https://github.com/bjorkgard/YOUR-SECOND-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=public-talktheme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&bg_color=0d0208"/>
+<a href="https://github.com/bjorkgard/public-talk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=public-talk&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00ff41&bg_color=0d0208"/>
 </a>
 
 </div>
