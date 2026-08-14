@@ -72,8 +72,8 @@ SEE ALSO
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bjorkgard&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=ffb347&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjorkgard&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=bjorkgard&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=ffb347&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjorkgard&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00"/>
 
 <br/>
 
