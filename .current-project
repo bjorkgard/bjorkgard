@@ -1,0 +1,5 @@
+NAME: billboard-v2
+DESCRIPTION: Application for managing congregation billboard assignments, placements, and scheduling.
+STACK: Laravel | Inertia | React | Tailwind | TypeScript
+URL: github.com/bjorkgard/billboard-v2
+STARTED: 2026-08
