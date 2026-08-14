@@ -165,7 +165,7 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bjorkgard&layout=compact&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&langs_count=7"/>
+<img src="https://github-stats-extended-frontend-hqti.vercel.app/api/wakatime?username=bjorkgard&layout=compact&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&langs_count=7"/>
 
 </div>
 
