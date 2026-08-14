@@ -1,40 +1,39 @@
+<!-- Animated header — capsule-render renders correctly, no custom SVGs needed -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0208,40:003308,60:003308,100:0d0208&height=200&text=NATHANAEL%20BJ%C3%96RKGARD&fontSize=36&fontColor=00ff41&animation=blink&stroke=00ff41&strokeWidth=0&desc=Full-Stack%20%2F%2F%20Frontend%20Specialist%20%2F%2F%20Available&descSize=14&descAlignY=72&descColor=009922" width="100%"/>
+
 <div align="center">
 
-<!-- BIOS boot sequence — typed character by character, builds line by line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=500&pause=80&color=00FF41&background=0D0208&center=false&vCenter=false&multiline=true&width=720&height=205&lines=Nathanael+Bjorkgard+Systems+BIOS+v2026+Copyright+(C)+2026;-------------------------------------------;Testing+RAM%3A+TypeScript+5yr%2B+..............+%5BPASS%5D;Testing+CPU%3A+React+%7C+Vue+%7C+Next.js+...+%5BPASS%5D;Testing+I%2FO%3A+Go+%7C+PHP+%7C+Laravel+..........+%5BPASS%5D;Testing+DB%3A++MySQL+%7C+MongoDB+..........+%5BPASS%5D;--------------------------------------------;OPEN_TO_HIRE%3A+YES+%7C+Location%3A+G%C3%B6teborg%2C+SE;Loading+nathanael-bjorkgard.sys+...........+DONE" width="720"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=580&lines=%3E+react+%7C+vue+%7C+typescript+%7C+next.js;%3E+go+%7C+php+%7C+laravel;%3E+mysql+%7C+mongodb;%3E+status%3A+open-to-hire+--+ping+nathanael%40bjorkgard.se" alt="Typing SVG"/>
+
+<br/>
+
+[![hire me](https://img.shields.io/badge/%5B_HIRE_ME_%5D-00ff41?style=for-the-badge&logo=terminal&logoColor=0d0208&labelColor=0d0208)](mailto:nathanael@bjorkgard.se)
+[![email](https://img.shields.io/badge/nathanael%40bjorkgard.se-0d0208?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:nathanael@bjorkgard.se)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/bjorkgard/bjorkgard/main/terminal-chrome.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=00FF41&background=0D0208&center=false&vCenter=false&multiline=false&width=900&height=22&lines=%24+nathanael%40bjorkgard%3A%7E%24+_" width="900"/>
-
----
-
 ```bash
-$ cat about.md
+$ whoami
+nathanael-bjorkgard — full-stack dev
 
-  I build things that run in production without apology.
-  5 years of TypeScript before it was cool to care about types.
-  Go APIs that don't die at 3am. Laravel backends devs can actually read.
-  React/Vue frontends that survive the second dev touching them.
+$ uptime
+5 years TypeScript · React/Vue frontends that scale · Go services that don't page at 3am
 
-  The gap between "it works" and "it's a joy to use" — that's where I live.
+$ uname -a
+Go  PHP/Laravel  MySQL  MongoDB  React  Vue  Next.js  TypeScript
 ```
 
 ```bash
-$ git log --oneline --graph --all | head -6
+$ ps aux | grep "open-to-work"
 
-* a9f2b3c  feat: React SPA handling 50k daily users — stayed maintainable
-* b7e1d4f  feat: Go service at 10k req/s — never paged once
-* c3a9f2d  feat: Laravel platform — still running two years later
-* d1b7e3a  feat: Vue real-time dashboard — zero runtime dependencies
-* e5c2f1b  chore: TypeScript strict mode everywhere, always
+nathanael  42069  100.0  99.9  RUNNING   open-to-hire=true
+nathanael  42070   98.2  90.1  RUNNING   available-for-contracts=true
 ```
 
 <div align="center">
 
-<!-- Contribution snake — run the GitHub Actions workflow to generate this -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bjorkgard/bjorkgard/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bjorkgard/bjorkgard/output/github-contribution-grid-snake.svg">
@@ -43,27 +42,24 @@ $ git log --oneline --graph --all | head -6
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bjorkgard&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=00cc33&bg_color=0d0208"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjorkgard&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=00ff41&text_color=00cc33&bg_color=0d0208"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bjorkgard&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=00ff41&title_color=00ff41&bg_color=0d0208"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjorkgard&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=00ff41&bg_color=0d0208"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bjorkgard&theme=github-dark-blue&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&background=0D0208&sideNums=00cc33&sideLabels=009922&dates=006611"/>
+<img src="https://streak-stats.demolab.com?user=bjorkgard&theme=github-dark-blue&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&background=0D0208"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff&area_color=003308&bg_color=0d0208" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff&bg_color=0d0208" width="100%"/>
 
 </div>
 
 ---
 
 ```bash
-$ cat contact.sh
-
-  #!/bin/bash
-  # System ready. Want to build something great together?
-  xdg-open "mailto:nathanael@bjorkgard.se"
+$ echo "ready when you are"
+nathanael@bjorkgard.se
 
 $ _
 ```
