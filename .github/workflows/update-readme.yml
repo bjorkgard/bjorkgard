@@ -1,0 +1,81 @@
+name: Update README current project
+
+on:
+  push:
+    paths:
+      - '.current-project'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Inject .current-project into README
+        run: |
+          python3 - <<'PYEOF'
+          import re
+
+          START = "<!-- CURRENT-PROJECT:START -->"
+          END   = "<!-- CURRENT-PROJECT:END -->"
+
+          fields = {}
+          with open(".current-project", encoding='utf-8') as f:
+              for line in f:
+                  if ": " in line:
+                      key, _, val = line.strip().partition(": ")
+                      fields[key] = val
+
+          name    = fields.get("NAME", "")
+          desc    = fields.get("DESCRIPTION", "")
+          stack   = fields.get("STACK", "")
+          url     = fields.get("URL", "")
+          started = fields.get("STARTED", "")
+
+          required = {"NAME": name, "DESCRIPTION": desc, "STACK": stack, "URL": url}
+          missing = [k for k, v in required.items() if not v.strip()]
+          if missing:
+              print(f"ERROR: missing required fields in .current-project: {', '.join(missing)}")
+              raise SystemExit(1)
+
+          block = f"""```
+CURRENTLY BUILDING
+
+    {name}
+        {desc}
+        Stack: {stack}
+        Started: {started}
+        {url}
+```"""
+
+          with open("README.md", encoding='utf-8') as f:
+              readme = f.read()
+
+          if START not in readme or END not in readme:
+              print(f"ERROR: markers '{START}' and '{END}' not found in README.md")
+              print("Add the markers to README.md before running this workflow.")
+              raise SystemExit(1)
+
+          pattern = re.compile(
+              re.escape(START) + r".*?" + re.escape(END),
+              re.DOTALL
+          )
+          updated = pattern.sub(f"{START}\n{block}\n{END}", readme)
+
+          with open("README.md", "w", encoding='utf-8') as f:
+              f.write(updated)
+
+          print("README.md updated successfully.")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update currently building section"
+          git pull --rebase
+          git push

@@ -62,6 +62,46 @@ SEE ALSO
     github.com/bjorkgard  ·  nathanael@bjorkgard.se
 ```
 
+---
+
+```
+PROJECTS(1)              Selected Work              PROJECTS(1)
+
+
+NAME
+    bjorkgard/projects — things built and shipped
+
+
+DESCRIPTION
+    A non-exhaustive record of projects running in production.
+
+    GITHUB-STATS-EXTENDED
+        GitHub stats cards with extended organization contribution
+        support. Fork of anuraghazra/github-readme-stats, deployed
+        to power the stats widgets on this profile.
+        Stack: TypeScript · Next.js · Vercel
+        Status: active — github.com/bjorkgard/github-stats-extended
+
+    SECRETARY-APPLICATION
+        Application for managing congregation secretary duties:
+        records, correspondence, and field service reporting.
+        Stack: TypeScript · Vue · PHP
+        Status: active — github.com/bjorkgard/secretary-application
+
+    LODE-RUNNER
+        Browser-based recreation of the classic Lode Runner arcade
+        game. No installation, plays in any modern browser.
+        Stack: TypeScript
+        Status: active — github.com/bjorkgard/lode-runner
+
+
+NOTES
+    Private work available on request.
+
+
+PROJECTS(1)              Selected Work              PROJECTS(1)
+```
+
 <div align="center">
 
 <picture>
@@ -84,6 +124,21 @@ SEE ALSO
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=ffb347&line=ffb347&point=ffffff&area_color=3d2200&bg_color=1a0f00" width="100%"/>
 
 </div>
+
+---
+
+<!-- CURRENT-PROJECT:START -->
+```
+CURRENTLY BUILDING
+
+    secretary-application
+        Application for managing congregation secretary duties:
+        records, correspondence, and field service reporting.
+        Stack: TypeScript | Vue | PHP
+        Started: 2026-08
+        github.com/bjorkgard/secretary-application
+```
+<!-- CURRENT-PROJECT:END -->
 
 ---
 
