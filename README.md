@@ -157,15 +157,15 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <br/>
 
-<img src="https://github-stats-extended-frontend-hqti.vercel.app/api/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=ffb347&line=ffb347&point=ffffff&area_color=3d2200&bg_color=1a0f00" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=ffb347&line=ffb347&point=ffffff&area_color=3d2200&bg_color=1a0f00" width="100%"/>
 
 <br/>
 
-<img src="https://github-stats-extended-frontend-hqti.vercel.appp/api/?username=bjorkgard&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bjorkgard&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 <br/>
 
-<img src="https://github-stats-extended-frontend-hqti.vercel.app/api/wakatime?username=bjorkgard&layout=compact&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&langs_count=7"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bjorkgard&layout=compact&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&langs_count=7"/>
 
 </div>
 
