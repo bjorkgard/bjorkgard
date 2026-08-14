@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=500&pause=80&color=FFB347&background=1A0F00&center=false&vCenter=false&multiline=true&width=760&height=205&lines=Nathanael+Bjorkgard+Systems+BIOS+v2026+Copyright+(C)+2026;------------------------------------------------;Testing+RAM%3A+TypeScript+5yr%2B+..............+%5BPASS%5D;Testing+CPU%3A+React+%7C+Vue+%7C+Next.js+.....+%5BPASS%5D;Testing+I%2FO%3A+Go+%7C+PHP+%7C+Laravel+........+%5BPASS%5D;Testing+DB%3A++MySQL+%7C+MongoDB+...........+%5BPASS%5D;OPEN_TO_HIRE%3A+YES+%7C+Location%3A+Goteborg%2C+SE;Loading+nathanael-bjorkgard.sys+............+DONE" width="760"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=FFB347&background=1A0F00&center=false&vCenter=false&multiline=true&width=760&height=205&lines=Nathanael+Bjorkgard+Systems+BIOS+v2026+Copyright+(C)+2026;------------------------------------------------;Testing+RAM%3A+TypeScript+5yr%2B+..............+%5BPASS%5D;Testing+CPU%3A+React+%7C+Vue+%7C+Next.js+.....+%5BPASS%5D;Testing+I%2FO%3A+Go+%7C+PHP+%7C+Laravel+........+%5BPASS%5D;Testing+DB%3A++MySQL+%7C+MongoDB+...........+%5BPASS%5D;OPEN_TO_HIRE%3A+YES+%7C+Location%3A+Goteborg%2C+SE;Loading+nathanael-bjorkgard.sys+............+DONE" width="760"/>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=bjorkgard&color=ffb347&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=400&pause=50&color=FFB347&background=1A0F00&center=false&vCenter=false&multiline=true&width=480&height=180&lines=TypeScript+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+99%25;React++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+95%25;Vue++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+88%25;Go+++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+85%25;Laravel++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+88%25;MySQL++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+92%25;MongoDB++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+82%25" width="480"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=600&color=FFB347&background=1A0F00&center=false&vCenter=false&multiline=true&width=480&height=230&lines=WORKING+LANGUAGES+%2F+DAILY+PROFESSIONAL+STACK;---------------------------------------------;TypeScript+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+99%25;React++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+95%25;Vue++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+88%25;Go+++++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+85%25;Laravel++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+88%25;MySQL++++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+92%25;MongoDB++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+82%25" width="480"/>
 
 ---
 
@@ -44,6 +48,13 @@ OPTIONS
     --status      OPEN_TO_HIRE=true
 
 
+ENVIRONMENT
+    EDITOR        VS Code  ·  Kiro
+    FONT          JetBrains Mono  ·  14px
+    SYSTEM        macOS  ·  zsh
+    TOOLS         Docker  ·  Homebrew  ·  pnpm
+
+
 EXAMPLES
     $ hire nathanael --role fullstack
     connecting to nathanael@bjorkgard.se...
@@ -58,8 +69,15 @@ EXIT STATUS
     2    no response — ping nathanael@bjorkgard.se
 
 
+BUGS
+    --needs-coffee        required at boot time
+    --tab-width           2 (non-negotiable)
+    --dark-mode           true (enforced system-wide)
+    --meeting-preference  async  >  sync
+
+
 SEE ALSO
-    github.com/bjorkgard  ·  nathanael@bjorkgard.se
+    github.com/bjorkgard  ·  nathanael@bjorkgard.se  ·  linkedin.com/in/nathanael-björkgård-15a83799
 ```
 
 ---
@@ -102,6 +120,24 @@ NOTES
 PROJECTS(1)              Selected Work              PROJECTS(1)
 ```
 
+---
+
+<div align="center">
+
+<a href="https://github.com/bjorkgard/secretary-application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=secretary-application&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+</a>
+<a href="https://github.com/bjorkgard/github-stats-extended">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=github-stats-extended&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+</a>
+<a href="https://github.com/bjorkgard/lode-runner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=lode-runner&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 <picture>
@@ -123,6 +159,14 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=ffb347&line=ffb347&point=ffffff&area_color=3d2200&bg_color=1a0f00" width="100%"/>
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bjorkgard&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bjorkgard&layout=compact&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&langs_count=7"/>
+
 </div>
 
 ---
@@ -143,9 +187,21 @@ CURRENTLY BUILDING
 ---
 
 ```
+CURRENTLY LEARNING
+
+    React
+        Deepening expertise beyond daily use — advanced patterns,
+        concurrent features, and performance optimization.
+        Approach: production code + React docs deep dives.
+```
+
+---
+
+```
 SEE ALSO
     nathanael@bjorkgard.se
     github.com/bjorkgard
+    linkedin.com/in/nathanael-björkgård-15a83799
 
 NATHANAEL-BJORKGARD(1)       Developer Manual       NATHANAEL-BJORKGARD(1)
 ```
