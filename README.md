@@ -124,14 +124,14 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <div align="center">
 
-<a href="https://github.com/bjorkgard/secretary-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=secretary-application&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+<a href="https://github.com/bjorkgard/public-talk">
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=public-talk&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&private=true" />
 </a>
-<a href="https://github.com/bjorkgard/github-stats-extended">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=github-stats-extended&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+<a href="https://github.com/bjorkgard/available">
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=available&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
 </a>
 <a href="https://github.com/bjorkgard/lode-runner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bjorkgard&repo=lode-runner&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=lode-runner&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
 </a>
 
 </div>
@@ -161,7 +161,7 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/api/?username=bjorkgard&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-stats-extended-frontend-hqti.vercel.appp/api/?username=bjorkgard&theme=gruvbox&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 <br/>
 
