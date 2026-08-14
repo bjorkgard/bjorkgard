@@ -41,15 +41,18 @@ jobs:
               print(f"ERROR: missing required fields in .current-project: {', '.join(missing)}")
               raise SystemExit(1)
 
-          block = f"""```
-CURRENTLY BUILDING
-
-    {name}
-        {desc}
-        Stack: {stack}
-        Started: {started}
-        {url}
-```"""
+          lines = [
+              "```",
+              "CURRENTLY BUILDING",
+              "",
+              f"    {name}",
+              f"        {desc}",
+              f"        Stack: {stack}",
+              f"        Started: {started}",
+              f"        {url}",
+              "```",
+          ]
+          block = "\n".join(lines)
 
           with open("README.md", encoding='utf-8') as f:
               readme = f.read()
