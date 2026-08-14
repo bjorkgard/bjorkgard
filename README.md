@@ -175,12 +175,11 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 ```
 CURRENTLY BUILDING
 
-    secretary-application
-        Application for managing congregation secretary duties:
-        records, correspondence, and field service reporting.
-        Stack: TypeScript | Vue | PHP
+    billboard-v2
+        Application for managing billboards for congregations assignments, placements, and scheduling.
+        Stack: Laravel | Inertia | React | Tailwind | TypeScript
         Started: 2026-08
-        github.com/bjorkgard/secretary-application
+        github.com/bjorkgard/billboard-v2
 ```
 <!-- CURRENT-PROJECT:END -->
 
