@@ -162,10 +162,6 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjorkgard&theme=github-compact&hide_border=true&area=true&color=ffb347&line=ffb347&point=ffffff&area_color=3d2200&bg_color=1a0f00" width="100%"/>
 
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=d2616aec-b17e-4865-a8b0-10f941535ebf&layout=compact&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&langs_count=7"/>
-
 </div>
 
 ---
