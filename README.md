@@ -124,17 +124,17 @@ PROJECTS(1)              Selected Work              PROJECTS(1)
 
 <div align="center">
 
-<a href="https://github.com/bjorkgard/office-agents">
-  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=office-agents&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&private=true" />
+<a href="https://github.com/bjorkgard/ai-center">
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=ai-center&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&private=true" />
 </a>
-<a href="https://github.com/bjorkgard/public-talk">
-  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=public-talk&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&private=true" />
+<a href="https://github.com/bjorkgard/public-talk-v2">
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=public-talk-v2&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347&private=true" />
 </a>
-<a href="https://github.com/bjorkgard/available">
-  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=available&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+<a href="https://github.com/bjorkgard/billboard-v2">
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=billboard-v2&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
 </a>
-<a href="https://github.com/bjorkgard/hourglass-scripts">
-  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=hourglass-scripts&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
+<a href="https://github.com/bjorkgard/world">
+  <img src="https://github-stats-extended-frontend-hqti.vercel.app/api/pin/?username=bjorkgard&repo=world&theme=github_dark&hide_border=true&title_color=ffb347&text_color=cc8c35&bg_color=1a0f00&icon_color=ffb347" />
 </a>
 
 </div>
