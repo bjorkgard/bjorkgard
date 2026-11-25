@@ -1,22 +1,22 @@
 {
   "username": "bjorkgard",
-  "generated_at": "2026-11-25T06:29:31Z",
+  "generated_at": "2026-11-25T14:20:47Z",
   "range": {
     "start": "2025-11-23",
     "end": "2026-11-25"
   },
-  "total_contributions": 5405,
-  "active_days": 225,
+  "total_contributions": 5416,
+  "active_days": 226,
   "avg_per_active_day": 24.0,
   "current_streak": {
-    "length": 39,
+    "length": 40,
     "start": "2026-10-17",
-    "end": "2026-11-24"
+    "end": "2026-11-25"
   },
   "longest_streak": {
-    "length": 39,
+    "length": 40,
     "start": "2026-10-17",
-    "end": "2026-11-24"
+    "end": "2026-11-25"
   },
   "best_day": {
     "date": "2026-10-26",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 741
+      "total": 752
     }
   ],
   "days": [
@@ -595,7 +595,7 @@
     {
       "date": "2026-03-06",
       "count": 54,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-03-07",
@@ -725,7 +725,7 @@
     {
       "date": "2026-04-01",
       "count": 54,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-04-02",
@@ -1090,7 +1090,7 @@
     {
       "date": "2026-06-13",
       "count": 27,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-06-14",
@@ -1390,7 +1390,7 @@
     {
       "date": "2026-08-12",
       "count": 81,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-08-13",
@@ -1500,7 +1500,7 @@
     {
       "date": "2026-09-03",
       "count": 81,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-09-04",
@@ -1904,7 +1904,7 @@
     },
     {
       "date": "2026-11-23",
-      "count": 105,
+      "count": 108,
       "level": 4
     },
     {
@@ -1914,8 +1914,8 @@
     },
     {
       "date": "2026-11-25",
-      "count": 0,
-      "level": 0
+      "count": 8,
+      "level": 1
     }
   ]
 }
